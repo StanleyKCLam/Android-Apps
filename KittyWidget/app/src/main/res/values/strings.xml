@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KittyWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="text_year">年</string>
+    <string name="text_month">月</string>
+    <string name="text_day">日</string>
+</resources>
